@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the border between <em>Passive</em> and <em>Active</em>
-date: 2025-10-20 10:20 0000
+date: 2025-10-20 10:20:00
 categories: [Thoughts, Power]
 tags: [active] 
 description: Short summary of the post.    # TAG names should always be lowercase
